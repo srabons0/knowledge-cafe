@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Dancing+Script:wght@700&family=EB+Garamond:wght@400;500;600;700;800&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Inter:wght@400;500;700&family=Paytone+One&family=Raleway:ital,wght@1,700&family=Roboto&family=Work+Sans:wght@100..900&display=swap');
+
+body{
+    font-family: "Exo 2", sans-serif;
+}
