@@ -1,53 +1,67 @@
 [
-    {
-      "id": 123456,
-      "cover": "https://i.ibb.co/sP3gmKL/swello-W9-GU3y-Fr5tc-unsplash.jpg",
-      "title": "The Enigmatic Odyssey",
-      "author": "Amelia J. Harper",
-      "author_img": "https://i.ibb.co/3dCdY55/warren-VVEw-JJRRHgk-unsplash.jpg",
-      "posted_date": "2024-02-27",
-      "reading_time": 15,
-      "hashtag": "#MysteryAdventure"
-    },
-    {
-      "id": 789012,
-      "cover": "https://i.ibb.co/YR4h8DD/marvin-meyer-SYTO3xs06f-U-unsplash.jpg",
-      "title": "Whispers of Eternity",
-      "author": "Samuel K. Anderson",
-      "author_img": "https://i.ibb.co/NN6Y9pM/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
-      "posted_date": "2024-02-26",
-      "reading_time": 20,
-      "hashtag": "#FantasyFiction"
-    },
-    {
-      "id": 345678,
-      "cover": "https://i.ibb.co/5K9rhLR/oli-dale-xj-Sk-I-sei-ZY-unsplash.jpg",
-      "title": "Echoes in the Shadows",
-      "author": "Olivia R. Martin",
-      "author_img": "https://i.ibb.co/wSh9X7Q/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
-      "posted_date": "2024-02-25",
-      "reading_time": 18,
-      "hashtag": "#SuspenseThriller"
-    },
-    {
-      "id": 901234,
-      "cover": "https://i.ibb.co/Thpsrds/christopher-gower-vj-Mgq-Uk-S8q8-unsplash.jpg",
-      "title": "Serendipity's Embrace",
-      "author": "Benjamin T. Lewis",
-      "author_img": "https://i.ibb.co/GTYbRsn/harry-cunningham-EPi3-TRQc5-Z0-unsplash.jpg",
-      "posted_date": "2024-02-24",
-      "reading_time": 25,
-      "hashtag": "#RomanceNovel"
-    },
-    {
-      "id": 567890,
-      "cover": "https://i.ibb.co/W6znctq/christopher-gower-m-HRf-Lhg-ABo-unsplash.jpg",
-      "title": "Quantum Chronicles",
-      "author": "Victoria E. Wells",
-      "author_img": "https://i.ibb.co/PTCDWFk/andres-hernandez-Lh-UOZH0a798-unsplash.jpg",
-      "posted_date": "2024-02-23",
-      "reading_time": 22,
-      "hashtag": "#SciFiAdventure"
-    }
-  ]
-  
+  {
+    "id": 123456,
+    "cover": "https://i.ibb.co/sP3gmKL/swello-W9-GU3y-Fr5tc-unsplash.jpg",
+    "title": "The Enigmatic Odyssey",
+    "author": "Amelia J. Harper",
+    "author_img": "https://i.ibb.co/3dCdY55/warren-VVEw-JJRRHgk-unsplash.jpg",
+    "posted_date": "2024-02-27",
+    "reading_time": 15,
+    "hashtag": [
+      "Mystery",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 789012,
+    "cover": "https://i.ibb.co/YR4h8DD/marvin-meyer-SYTO3xs06f-U-unsplash.jpg",
+    "title": "Whispers of Eternity",
+    "author": "Samuel K. Anderson",
+    "author_img": "https://i.ibb.co/NN6Y9pM/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+    "posted_date": "2024-02-26",
+    "reading_time": 20,
+    "hashtag": [
+      "Fantasy",
+      "Fiction"
+    ]
+  },
+  {
+    "id": 345678,
+    "cover": "https://i.ibb.co/5K9rhLR/oli-dale-xj-Sk-I-sei-ZY-unsplash.jpg",
+    "title": "Echoes in the Shadows",
+    "author": "Olivia R. Martin",
+    "author_img": "https://i.ibb.co/wSh9X7Q/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
+    "posted_date": "2024-02-25",
+    "reading_time": 18,
+    "hashtag": [
+      "Suspense",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 901234,
+    "cover": "https://i.ibb.co/Thpsrds/christopher-gower-vj-Mgq-Uk-S8q8-unsplash.jpg",
+    "title": "Serendipity's Embrace",
+    "author": "Benjamin T. Lewis",
+    "author_img": "https://i.ibb.co/GTYbRsn/harry-cunningham-EPi3-TRQc5-Z0-unsplash.jpg",
+    "posted_date": "2024-02-24",
+    "reading_time": 25,
+    "hashtag": [
+      "Romance",
+      "Novel"
+    ]
+  },
+  {
+    "id": 567890,
+    "cover": "https://i.ibb.co/W6znctq/christopher-gower-m-HRf-Lhg-ABo-unsplash.jpg",
+    "title": "Quantum Chronicles",
+    "author": "Victoria E. Wells",
+    "author_img": "https://i.ibb.co/PTCDWFk/andres-hernandez-Lh-UOZH0a798-unsplash.jpg",
+    "posted_date": "2024-02-23",
+    "reading_time": 22,
+    "hashtag": [
+      "SciFi",
+      "Adventure"
+    ]
+  }
+]
